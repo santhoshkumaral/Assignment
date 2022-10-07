@@ -1,0 +1,17 @@
+.dark-theme {
+  background-color: #111b20;
+  color: #fff !important;
+}
+
+.dark-theme .MuiTableCell-stickyHeader {
+  background-color: #111b20;
+  color: #fff !important;
+}
+
+.dark-theme .MuiTableCell-body {
+  color: #fff !important;
+}
+
+.light-theme {
+  background-color: #fff;
+}

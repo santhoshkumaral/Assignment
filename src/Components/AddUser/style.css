@@ -1,0 +1,38 @@
+    .Form {
+        font-family: Arial, Helvetica, sans-serif;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 50px;
+    }
+
+    .form_data {
+        display: flex;
+    }
+
+    .Form.inputs {
+        flex: 80%;
+        width: 100%;
+    }
+
+    .inputsinput {
+        width: 250px;
+        height: 40px;
+        font-size: 20px;
+        border-radius: 6px;
+        margin-left: 30px;
+        padding-left: 10px;
+        margin-top: 10px;
+    }
+
+    Form.adduser {
+        background-color: #008cba;
+        border: none;
+        color: white;
+        padding: 15px30px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        margin: 10px2px;
+        cursor: pointer;
+    }
